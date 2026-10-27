@@ -1,0 +1,2 @@
+# Echo uses only the Python standard library; Tkinter must be installed with Python.
+# There are no pip dependencies for the current version.
