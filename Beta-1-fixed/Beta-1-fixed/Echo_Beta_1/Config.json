@@ -1,6 +1,6 @@
 
 {
-  "api_key": "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",
+  "api_key": "GetyourOwnApikeyCharlie",
   "api_url": "https://api.groq.com/openai/v1/chat/completions",
   "model": "openai/gpt-oss-120b"
 }
